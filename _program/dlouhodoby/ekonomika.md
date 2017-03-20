@@ -38,4 +38,4 @@ Je třeba maximálně zjednodušit byrokracii pro podnikatele, většinu lze vy�
 
 **ČR – Bezpečný přístav informací**
 
-Cílem je vytvořit „bezpečný přístav“ pro data a aplikace, a to přijetím legislativy, která ochrání provozovatele datových úložišť a datová centra před zpravodajskými službami a policejními raziemi. Toto je reálná možnost oživení ekonomiky. Mohli bychom se stát velmocí – SaveData Bay. Budování datových center a jejich provoz potom vytváří pracovní příležitosti a je dlouhodobým příjmem (zdanění).
+Cílem je vytvořit „bezpečný přístav“ pro data a aplikace, a to přijetím legislativy, která ochrání provozovatele datových úložišť a datová centra před zpravodajskými službami a policejními raziemi. Toto je reálná možnost oživení ekonomiky. Mohli bychom se stát velmocí – SafeData Bay. Budování datových center a jejich provoz potom vytváří pracovní příležitosti a je dlouhodobým příjmem (zdanění).
